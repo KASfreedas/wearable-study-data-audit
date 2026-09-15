@@ -86,4 +86,4 @@ LifeSnaps: Yfantidou et al., *Scientific Data* 2022.
 [Zenodo 7229547](https://doi.org/10.5281/zenodo.7229547) · CC-BY 4.0.
 Published collection-round windows are taken from the dataset paper.
 
-Repository: <!-- TODO: add the public repository URL here before linking this page -->
+Repository: https://github.com/KASfreedas/wearable-study-data-audit
