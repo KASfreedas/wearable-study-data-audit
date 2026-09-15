@@ -1,0 +1,6 @@
+# Package versions this analysis was built and verified against.
+# pip does not install or select the interpreter: Python 3.11.15 is a separate
+# prerequisite. Byte-identical rebuilds are claimed for this set on that version only.
+pandas==3.0.2
+numpy==2.4.4
+matplotlib==3.10.9
